@@ -1,6 +1,7 @@
 # Socket Test app
-<hr>
-### What Should it do
+
+### What it should do
+
 - [ ] Show Realtime text state 
 - [ ] One could be able to update text state
 - [ ] Adding room feature
